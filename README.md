@@ -17,30 +17,25 @@
 ### Default Pieces
 
 <img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_Default.png" width="128px">
-
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Green_Default.png" width="auto">
-
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Pink_Default.png" width="auto">
-
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Purple_Default.png" width="auto">
-
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Red_Default.png" width="auto">
-
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Yellow_Default.png" width="auto">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Green_Default.png" width="128px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Pink_Default.png" width="128px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Purple_Default.png" width="128px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Red_Default.png" width="128px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Yellow_Default.png" width="128px">
 
 ## Example for other icons
 
 ### Icon_A
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_A.png" width="auto">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_A.png" width="128px">
 
 ### Icon_B
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_B.png" width="auto">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_B.png" width="128px">
 
 ### Icon_C
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_C.png" width="auto">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_C.png" width="128px">
 
 ## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see larger groups more easily.
 
