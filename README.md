@@ -39,11 +39,11 @@
 
 ## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see bigger groups more easily.
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/ChangePieceGIFs/GroupIconChange.gif" width="450px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/ChangePieceGIFs/GroupIconChange.gif" width="300px">
 
 ## If there is no blastable group on the board, a random piece will change to the color of the piece next to it.
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/ChangePieceGIFs/ChangeOneTile.gif" width="450px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/ChangePieceGIFs/ChangeOneTile.gif" width="300px">
 
 # GamePlay
 
