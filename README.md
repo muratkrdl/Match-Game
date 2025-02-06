@@ -8,7 +8,7 @@
 
 ## Board can have 2 to 10 rows (M) and 2 to 10 columns (N).
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetBoard.png" width="auto">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetBoard.png" width="64px">
 
 <img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetGoal.png" width="auto">
 
@@ -28,8 +28,19 @@
 
 <img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Yellow_Default.png" width="auto">
 
-
 ## Example for other icons
+
+### Icon_A
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_A.png" width="auto">
+
+### Icon_B
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_B.png" width="auto">
+
+### Icon_C
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_C.png" width="auto">
 
 ## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see larger groups more easily.
 
