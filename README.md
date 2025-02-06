@@ -8,7 +8,7 @@
 
 ## Board can have 2 to 10 rows (M) and 2 to 10 columns (N).
 
-<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetBoard.png" width="450px">
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetBoardd.png" width="450px">
 
 <img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetGoal.png" width="450px">
 
