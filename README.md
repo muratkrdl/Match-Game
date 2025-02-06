@@ -37,13 +37,13 @@
 
 <img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_C.png" width="128px">
 
-## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see larger groups more easily.
+## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see bigger groups more easily.
 
-// change pieces
+<img src="--" width="128px">
 
 ## If there is no blastable group on the board, a random piece will change to the color of the piece next to it.
 
-// change one piece
+<img src="--" width="128px">
 
 # GamePlay
 
