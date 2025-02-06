@@ -8,11 +8,28 @@
 
 ## Board can have 2 to 10 rows (M) and 2 to 10 columns (N).
 
-// set board and set goal 
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetBoard.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/SetBoardGoal/SetGoal.png" width="auto">
 
 ## all colors should have a different icon for easier recognition by the player. 
 
-// piece and other icon
+### Default Pieces
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Blue_Default.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Green_Default.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Pink_Default.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Purple_Default.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Red_Default.png" width="auto">
+
+<img src="https://github.com/muratkrdl/Match-Game/blob/main/Gif%20and%20Pictures/Tiles/Yellow_Default.png" width="auto">
+
+
+## Example for other icons
 
 ## As the number of pieces in the group increases the pictures of the pieces change with an effect so that the player can see larger groups more easily.
 
