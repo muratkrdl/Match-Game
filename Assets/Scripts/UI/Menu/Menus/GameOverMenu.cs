@@ -1,13 +1,18 @@
 using System;
 using System.Threading;
 using Cysharp.Threading.Tasks;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameOverMenu : MenuBaseClass
 {
     [SerializeField] GameObject winMenu;
     [SerializeField] GameObject loseMenu;
+
+    [SerializeField] Image gameOverMenuGoalSprite;
+    [SerializeField] TextMeshProUGUI gameOverMenuGoal;
 
     CancellationTokenSource cts = new();
 
@@ -16,10 +21,22 @@ public class GameOverMenu : MenuBaseClass
         SetGameOver();
     }
 
+    void SetGameLoseGoal(Sprite sprite, int goalAmount)
+    {
+        gameOverMenuGoalSprite.sprite = sprite;
+        gameOverMenuGoal.text = goalAmount.ToString();
+    }
+
     private void SetGameOver()
     {
         bool value = GoalMovesBoard.Instance.CheckWin();
-        string sfxName = value ? ConstStrings.SFX_WIN : ConstStrings.SFX_LOSE;
+        string sfxName = ConstStrings.SFX_WIN;
+        
+        if(!value)
+        {
+            sfxName = ConstStrings.SFX_LOSE;
+            SetGameLoseGoal(GoalMovesBoard.Instance.GetGoalSprite, GoalMovesBoard.Instance.GetCurrentGoal);
+        }
         
         winMenu.SetActive(value);
         loseMenu.SetActive(!value);

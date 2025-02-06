@@ -19,6 +19,14 @@ public class GoalMovesBoard : MonoBehaviour
     private int currentGoal;
     private int currentMoves;
 
+    public Sprite GetGoalSprite
+    {
+        get => goalSprite.sprite;
+    }
+    public int GetCurrentGoal
+    {
+        get => currentGoal;
+    }
     public int GetCurrentMoves
     {
         get => currentMoves;
